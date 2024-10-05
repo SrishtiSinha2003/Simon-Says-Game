@@ -20,7 +20,7 @@ You can view the live demo of the game on CodePen : https://codepen.io/Msdian-Va
 - **JavaScript**: Game logic and functionality
 
 ## How to Play
-Start the game by clicking the "Start" button.
+Start the game by clicking the any key.
 Follow the sequence of colors as they light up.
 Click on the colored buttons in the same order as they were shown.
 If you repeat the sequence correctly, the game will add a new color to the sequence.
